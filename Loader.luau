@@ -42,7 +42,7 @@ loadstring(game:HttpGet(
 
 loadstring(game:HttpGet(
 
- "https://pastefy.app/BgAcEWYM/raw",
+ "https://pastefy.app/K8zMhMDr/raw",
 
  true
 
@@ -248,7 +248,7 @@ loadstring(game:HttpGet(
 
 loadstring(game:HttpGet(
 
- "https://pastefy.app/BgAcEWYM/raw",
+ "https://pastefy.app/K8zMhMDr/raw",
 
  true
 
